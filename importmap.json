@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "@babylonjs/core/Cameras/arcRotateCamera": "//lib.gardar.app/@babylonjs/core/Cameras/arcRotateCamera.js"
+    }
+}
